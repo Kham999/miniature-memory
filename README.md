@@ -1,2 +1,1 @@
-# miniature-memory
-ttps://GITHUB-USERNAME.github.io/miniature-memory/cv
+https://Kham999.github.io/miniature-memory/cv
